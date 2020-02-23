@@ -1,2 +1,2 @@
 # Invisible_Me
-Creating Invisible Cloak using OpenCV
+Invisible Cloak using OpenCV
